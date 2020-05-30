@@ -1,0 +1,24 @@
+{
+  "name": "params-asembler",
+  "version": "1.0.0",
+  "description": "A module to assemble params in a URL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alejosod/url-assembler.git"
+  },
+  "keywords": [
+    "params",
+    "url",
+    "substitute"
+  ],
+  "author": "alejandro soler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alejosod/url-assembler/issues"
+  },
+  "homepage": "https://github.com/alejosod/url-assembler#readme"
+}
